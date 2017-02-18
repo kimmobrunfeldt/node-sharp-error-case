@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg background="white" width="8268px" height="11811px" viewBox="0 0 8268 11811" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>poster-portrait</title>
+    <desc>Created with Sketch.</desc>
+    <defs/>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="poster-portrait" transform="translate(326.000000, 370.000000)">
+            <text id="TESTING-STRING" font-family="Arial" font-size="200" font-weight="normal" letter-spacing="6.66666698" fill="#343434">
+                <tspan x="21" y="10776">TESTING STRING</tspan>
+            </text>
+            <text id="TEST-HEADER" font-family="Arial" font-size="500" font-weight="bold" fill="#343434">
+                <tspan x="0" y="10425">TEST HEADER</tspan>
+            </text>
+            <path d="M16.5,9802 L7599.00244,9802" id="Line" stroke="#050606" stroke-width="70"/>
+            <image id="big-image" transform="translate(3807.500000, 4883.500000) translate(-3807.500000, -4883.500000) " x="16" y="0" width="7583" height="9767" xlink:href="earth.png"/>
+        </g>
+    </g>
+</svg>
